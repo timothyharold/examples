@@ -5,7 +5,6 @@ import Product from '@/components/Product'
 
 Vue.use(Router)
 
-// setting this up down and dirty, need
 export default new Router({
   routes: [
     {
